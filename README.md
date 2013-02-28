@@ -1,6 +1,3 @@
-spider.py
-=========
-
 关于该爬虫
 
 程序运行示例：
@@ -19,7 +16,7 @@ winXP sp3 和 ubuntu12.10测试均能正常运行
 
 
 主要参考：
-　　　Python爬虫  
+　　　Python爬虫      
 　　　http://bbs.chinaunix.net/thread-3689276-1-1.html
 　　　对Python线程池进行详细说明
 　　　http://developer.51cto.com/art/201002/185290.htm
@@ -29,6 +26,7 @@ winXP sp3 和 ubuntu12.10测试均能正常运行
       http://anony3721.blog.163.com/blog/static/5119742010716104442536/
 　　　Python模块学习
 　　　http://www.cnblogs.com/captain_jack/archive/2011/01/11/1933366.html
+　　　
 　　　
 　　　
 　　　
