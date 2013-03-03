@@ -20,7 +20,7 @@ logger = logging.getLogger()
 
 #页面爬行类
 class Crawler(object):
-  def __init__(self,url,depth,threadNum,dbfile,key):
+	def __init__(self,url,depth,threadNum,dbfile,key):
 		#要获取url的队列
 		self.urlQueue = Queue()
 		#读取的html队列
