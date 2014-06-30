@@ -1,7 +1,7 @@
 关于该爬虫(爬虫有坑。。直接使用小心中招)
 
 程序运行示例：
-　　　Spider.py -u url -d depth
+Spider.py -u url -d depth
 　　　
 　　　Url,depth 为必需参数，其他为可选参数，日志文件默认当前目录，名字：spider.log，日志等级默       认为3。数据库为：data.sql，也是当前目录。
 
